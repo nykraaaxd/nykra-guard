@@ -1,0 +1,26 @@
+{
+   
+    
+    "botOwner":"owner id",
+    "botPrefix":"bot prefixi",
+    "botToken":"ODIxNjk4Njg3ODA5MDkzNjYy.BunuG3rc3kb1rt0k3ns4n4c4kk4d4rs4l4ğ1m",
+    "verikanal":"otomatik veri bilgisi",
+    "backkanal":"otomatik kanal bilgisi",
+    "altbaslık":"Nykra Guard System",
+    "guildID":"sunucu id si",
+    "botVoiceChannelID":"botun bağlanacağı ses kanalı",
+    "logChannelID":"log channel id",
+    "sunucu":"Sunucu ismi değişirse tekrar düzelticeği isim",
+    "sunucuresim":"sunucu resmi değişirse tekrar düzelteceği resim",
+    "channelGuard":true,
+    "roleGuard":true,
+    "serverGuard":true,
+    "botGuard":true,
+    "banGuard":true,
+    "kickGuard":true,
+    "whitelist":["Güvenli Liste"],
+    "boosterRole":"booster rolü",
+    "jailRole":"jail rolü"
+
+
+}
